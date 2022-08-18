@@ -1,2 +1,2 @@
 # CRH
-This project provides the code for our  ICD auto-encoding model based on hierarchical learning mechanism paper.
+This project provides the code for our  Hierarchical Attention-based CNN-RNN Neural Network for Automated ICD Coding paper.
